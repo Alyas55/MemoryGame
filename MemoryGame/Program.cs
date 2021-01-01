@@ -8,6 +8,8 @@ namespace MemoryGame
 {
     static class Program
     {
+
+        //Alyas kommentar
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
